@@ -9,22 +9,22 @@ O **Prime Drive** é uma plataforma de mobilidade urbana desenvolvida de forma i
 ### Tela inicial
 Login, cadastro, seleção do tipo de conta e opção de instalação como aplicativo (PWA).
 
-<p align="center"><img src="screenshots/tela-inicial.png" width="300" alt="Tela inicial do Prime Drive"></p>
+<p align="center"><img src="tela-inicial.png" width="300" alt="Tela inicial do Prime Drive"></p>
 
 ### 🚘 Área do motorista
 Mapa com disponibilidade para corridas, painel de ganhos, carteira e opções de pagamento.
 
 <p align="center">
-  <img src="screenshots/motorista-mapa.png" width="280" alt="Mapa e disponibilidade do motorista">
-  <img src="screenshots/motorista-painel.png" width="280" alt="Painel do motorista">
+  <img src="motorista-mapa.png" width="280" alt="Mapa e disponibilidade do motorista">
+  <img src="motorista-painel.png" width="280" alt="Painel do motorista">
 </p>
 
 ### 🙋 Área do passageiro
 Mapa com trajeto e estimativa da viagem, carteira, histórico e preferências.
 
 <p align="center">
-  <img src="screenshots/passageiro-corrida.png" width="280" alt="Solicitação de viagem pelo passageiro">
-  <img src="screenshots/passageiro-menu.png" width="280" alt="Menu e carteira do passageiro">
+  <img src="passageiro-corrida.png" width="280" alt="Solicitação de viagem pelo passageiro">
+  <img src="passageiro-menu.png" width="280" alt="Menu e carteira do passageiro">
 </p>
 
 ## 🎯 Objetivo
